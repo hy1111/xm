@@ -1,0 +1,34 @@
+.head{
+	width: 1200px;
+	height: 60px;
+	/*background: red;*/
+	margin: auto;
+	line-height: 60px;
+}
+.head span{
+		color: darkgray;
+}
+.main{
+	width: 1200px;
+	height: 925px;
+	background: white;
+	margin: 50px auto;
+}
+.main_left{
+	width: 580px;
+	height: 580px;
+	border: 1px solid darkgray;
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.main_left img{
+	margin-top: 50px;
+	margin-left: 35px;
+}
+.main_right{
+	width: 588px;
+	height: 100%;
+	background: red;
+	float: right;
+}

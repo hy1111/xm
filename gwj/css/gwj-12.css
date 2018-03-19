@@ -1,0 +1,21 @@
+#search_box_div >#uu{
+        width: 317px;
+        height: 30px;
+        font-size: 20px;
+        margin: 10px 0;
+        list-style: none;
+        cursor: pointer;
+        margin-left: 50px;
+        background:rgb(220,217,217);
+        border:1px style #fff;
+  }
+#search_box_div >#uu>li{
+            
+            background:rgb(220,217,217);
+          
+          }
+  #search_box_div>#uu>li:hover{
+       
+        background: bisque;
+      
+      }

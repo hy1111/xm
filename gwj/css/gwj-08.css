@@ -1,0 +1,205 @@
+ .gwj-headss{width: 100%;
+          height:1px; 
+          background: rgb(4,104,159);
+        border: 0.5px solid rgb(4,104,159);    
+   }  
+
+.gwj-head{
+         width: 60%;
+         height: 30px;
+         margin:0 auto;
+         
+     }
+          .gwj-box{
+          	 width: 60%;
+          	 height:560px;
+          	/* border: 1px solid rgb(4,105,169);*/
+          	 margin:0 auto;
+          	 background: rgb(238,238,238);
+
+          }
+           .gwj-box-a{
+          	   width: 90%;
+          	   height: 30px; 
+          	   margin:0 auto;
+          	   padding-top:20px;
+          	   position: relative;
+
+          }
+          .gwj-box-a>.span1{
+          	   width:6%;
+          	   height: 30px; 
+               margin-left:74%; 
+            /*  border: 1px solid red;*/
+          }
+          .gwj-box-b{
+          	   width: 90%;
+          	   height: 30px; 
+          	   background: rgb(255,255,255);
+          	   margin:0 auto; 
+               position: relative;    
+          }
+         .gwj-box-b>ul{
+         	   width: 100%;
+         	   height: 100%;
+          	 list-style: none;
+             margin-top:-10px; 
+          }
+         .gwj-box-b> ul li{
+          	 float: left;
+          	 margin-right:6%;
+          }
+         .gwj-box-b> ul>a .lii{
+         	width: 50px;
+         	height: 30px;
+         
+          padding-left: 86%;
+          margin-top: -20px;
+          /*margin-left: 300px; */
+         }
+         .gwj-box-c{
+         	 width: 90%;
+         	 border-bottom:1px solid rgb(144,144,144);
+         	 margin: 0 auto;
+         	 padding-top: 40px;
+         }
+         .gwj-box-d{
+         	   width: 90%;
+         	    height: 30px;
+         	    padding-top: 30px;
+         	    margin:0 auto; 
+         }
+         .gwj-box-e{
+         	   width: 90%;
+         	    height: 30px;
+         	    padding-top: 20px;
+         	    margin:0 auto; 
+         }
+         .gwj-box-e>ul{
+         	  list-style: none;
+         }
+         .gwj-box-e>ul li{
+         	 float: left;
+         	 width: 10%;
+         	 height: 30px;
+         	 border: 0.5px solid rgb(144,144,144);
+         	 margin-left: 20px;
+         	 text-align: center;
+         	 line-height: 30px;
+         	 font-size: 10px;
+
+         }
+         .gwj-box-e>ul li:hover{
+         	 border: 0.5px solid rgb(0,103,152);
+         }
+         .gwj-box-g{
+         	     width: 90%;
+         	     height: 200px;
+         	      margin: 0 auto;
+         	      margin-top:20px;
+         }
+         .gwj-box-h{
+         	 width: 100%;
+         	     height: 180px;
+         	      margin: 0 auto;
+         	      background:rgb(255,255,255); 
+         	      margin-top: 10px;
+         	      position: relative;
+         }
+         .gwj-box-h>div{
+         	    width: 100%;
+         	    height:50%;
+
+           }
+           .gwj-box-h>div>.img1{
+           	           width: 80px;
+           	           height: 80px;
+           	           position: absolute;
+           	           left: 10px;
+           	           top: 5px;         
+           }
+           
+           .gwj-box-h>div>.pp{
+           padding-top: 6px;
+           	margin-left: 150px;
+
+           }
+           .gwj-box-h>div>.p1{
+           	  font-size: 10px;
+           	  margin-left: 150px;
+           	  
+           }
+          .gwj-box-h>div>.ul1{
+           	   margin-top:-30px;
+           	   margin-left: 500px;
+           	   list-style: none;
+           }
+           .gwj-box-h>div>.ul1 >li{
+           	   float:left;
+           	   margin-right: 80px;
+           }
+             .gwj-box-h>div>.ul2{
+           	   margin-top:-50px;
+           	   margin-left: 500px;
+           	   list-style: none;
+           }
+           .gwj-box-h>div>.ul2>li{
+           	   float:left;
+           	   margin-right: 80px;
+           }
+          .gwj-box-h>div>.pps{
+          margin-top: -80px;
+           	margin-left: 150px;
+
+           }
+           .gwj-box-h>div>.p2{
+           	  font-size: 10px;
+           	  margin-left: 150px;
+           	  
+           }
+           .gwj-flooer{
+                  width: 60%;
+                  height: 120px;
+                  margin: 0 auto;
+
+           }
+           .gwj-flooer>ul{
+                        list-style: none;
+                        float: right;
+                         margin-left: 80px;
+                         /*margin-top: 30px;*/
+           }
+           .gwj-flooer li:nth-of-type(2){
+           	margin-top: 28px;
+           }
+           .gwj-flooer li{
+           	/*padding-top: 7px;*/
+            font-size: 8px;
+           	width: 50px;
+           	height: 10px;
+           	margin-top: 15px;
+           	/*border: 1px solid red;*/
+          
+           }
+           .gwj-flooera{
+           	 width: 60%;
+           	 margin: 0 auto; 
+           }
+           .gwj-flooera>#sp1{
+                  
+           	  margin-left: 85%;
+           	  margin-right: 20px;
+           }
+       .gwj-flooera>#sp2{
+       	         color: rgb(0,103,152);
+       	         font-size: 18px;
+       }
+       .gwj-flooera>a>p>button{
+       	     width: 170px;
+       	     height: 30px;
+       	    margin-left: 85%;
+       	    background: rgb(0,103,152);
+       	    color: #fff;
+       	    border: 0px;
+            margin-bottom: 20px;
+       }

@@ -1,0 +1,98 @@
+.center_hu_ping {
+	    width: 1200px;
+	     margin: 10px auto;
+}
+
+.center_hu_ping_center {
+	height: 494px;
+	border: 1px solid darkgray;
+	background-color: #CCCCCC;
+}
+
+.center_hu_ping_center_one {
+	width: 1100px;
+	height: 350px;
+	margin: auto;
+	background-color: white;
+	margin-top: 60px;
+}
+
+.center_hu_ping_center_one_zuo {
+	width: 500px;
+	height: 290px;
+	margin: 30px;
+	float: left;
+	position: relative;
+}
+
+.center_hu_ping_center_one_zuo img {
+	margin-top: 30px;
+}
+
+.center_hu_ping_center_one_zuo1 {
+	position: absolute;
+	top: 100px;
+	left: 200px;
+	font-size: 18px;
+	color: darkgray;
+}
+
+.center_hu_ping_center_one_you {
+	float: right;
+	width: 480px;
+	height: 290px;
+	margin: 30px;
+}
+
+.center_hu_ping_center_one_you_shu {
+	width: 300;
+	position: relative;
+	height: 150px;
+	border: 1px solid darkgray;
+}
+
+.center_hu_ping_center_one_you_shu button {
+	position: absolute;
+	top: 120px;
+	left: 10px;
+	border: none;
+}
+
+.center_hu_ping_center_one_you_pingjia {
+	width: 480px;
+	height: 100px;
+	margin-top: 30px;
+}
+
+.center_hu_ping_center_one_you_pingjia span {
+	font-size: 20px;
+	font-weight: bold;
+	color: darkgray;
+	float: left;
+	margin-right: 30px;
+}
+
+.center_hu_ping_center_one_you_pingjia li {
+	float: left;
+	font-size: 20px;
+	margin: 0px 4px;
+}
+
+.center_hu_ping_center_one_you_pingjia button {
+	border: none;
+	width: 100px;
+	height: 30px;
+	font-size: 20px;
+	margin-left: 126px;
+}
+
+.comment {
+	font-size: 40px;
+	color: #006699;
+}
+
+.dd {
+	position: absolute;
+	bottom: 0px;
+	width: 100%;
+}
